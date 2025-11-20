@@ -10,20 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // const contactForm = document.getElementById('contact-form');
-    // if (contactForm) {
-    //     contactForm.addEventListener('submit', function (e) {
-    //         e.preventDefault();
-
-    //         console.log('Form Submitted!');
-    //         const formData = new FormData(contactForm);
-
-    //         alert(`Thank you for your message, ${formData.get('name')}! I will get back to you soon.`);
-
-    //         contactForm.reset();
-    //     });
-    // }
-
     //  add an 'active' class to the current navigation link on scroll
     const sections = document.querySelectorAll('.section');
     const navLinks = document.querySelectorAll('.navbar a');
