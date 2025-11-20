@@ -438,4 +438,8 @@ h2 {
     .logo {
         display: none;
     }
+
+    .about-content {
+        font-size: unset;
+    }
 }
