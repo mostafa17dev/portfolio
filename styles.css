@@ -393,6 +393,7 @@ h2 {
     }
 
     .navbar {
+        display: flex;
         order: 3;
         width: 100%;
         margin-top: 10px;
